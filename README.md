@@ -1,2 +1,2 @@
-# ea-backend
-Emergency app backend
+# emergencyapp-backend
+
